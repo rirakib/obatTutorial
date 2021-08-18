@@ -1,0 +1,9 @@
+.contect_icon{
+    display: flex;
+    justify-content: space-evenly;
+    margin:0;
+}
+.contect_icon a{
+    text-decoration: none;
+    font-size: 25px;
+}
